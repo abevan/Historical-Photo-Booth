@@ -1,0 +1,7 @@
+{
+  "name": "Historical Photo Booth",
+  "description": "An application that allows users to upload photos, analyze them, and perform creative edits like adding filters or 'time-traveling' into historical scenes using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
